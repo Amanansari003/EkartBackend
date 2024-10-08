@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ekart", "Ekart\Ekart.csproj", "{7F8071C4-E47B-4D78-86F5-2FFC2E72885A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{6408CF6F-8C76-42AF-B57E-56F026DE5768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5AC95541-E3F5-4C75-AC6E-8BB78F3E54B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8071C4-E47B-4D78-86F5-2FFC2E72885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8071C4-E47B-4D78-86F5-2FFC2E72885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8071C4-E47B-4D78-86F5-2FFC2E72885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8071C4-E47B-4D78-86F5-2FFC2E72885A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6408CF6F-8C76-42AF-B57E-56F026DE5768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6408CF6F-8C76-42AF-B57E-56F026DE5768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6408CF6F-8C76-42AF-B57E-56F026DE5768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6408CF6F-8C76-42AF-B57E-56F026DE5768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC95541-E3F5-4C75-AC6E-8BB78F3E54B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC95541-E3F5-4C75-AC6E-8BB78F3E54B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC95541-E3F5-4C75-AC6E-8BB78F3E54B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC95541-E3F5-4C75-AC6E-8BB78F3E54B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3FC69C-9A18-4617-AAB9-9DDFF5818F16}
+	EndGlobalSection
+EndGlobal
